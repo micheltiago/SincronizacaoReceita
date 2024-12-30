@@ -3,9 +3,6 @@ package sincronizacaoreceita;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author gabriel_stabel<gabriel_stabel@sicredi.com.br>
- */
 public class ReceitaService {
 
     public boolean atualizarConta(String agencia, String conta, double saldo, String status)
